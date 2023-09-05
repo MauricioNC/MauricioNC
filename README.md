@@ -1,6 +1,6 @@
 # puts "Hello World!"
 
-- 👋 Hi, I’m @MauricioNC, currently I'm working at TATA Consultancy Services. I'm developer and creator of **<a href="https://www.youtube.com/channel/UCQcy8itqT6hWJE46fstvNXw">@newline1920</a>** youtube chanel, a personal project
+- 👋 Hi, I’m @MauricioNC, currently I'm working at TATA Consultancy Services. I'm developer and creator of **<a href="https://www.youtube.com/channel/UCQcy8itqT6hWJE46fstvNXw">@NLineDev</a>** youtube chanel, a personal project
   to share my knowledge with other developers.
 - 👀 I’m interested in backend development with Ruby on Rails framework.
 - I’m currently learning Ruby and Ruby on Rails as framework for backend, alongs with this I'm learning PostgreSQL for DB and VueJS for frontend.
