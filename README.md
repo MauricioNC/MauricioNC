@@ -9,10 +9,6 @@ I'm developing some practical projects to boost my profile using technologies li
 
 Currently I'm learning new technologies like React, AWS and MongoDB
 
-
-- 👋 Hi, I’m @MauricioNC, currently I'm working at TATA Consultancy Services. I'm developer and creator of **<a href="https://www.youtube.com/channel/UCQcy8itqT6hWJE46fstvNXw">@NewLineDev</a>** youtube chanel, a personal project
-  to share my knowledge with other developers.
-- 👀 I’m interested in backend development with Ruby on Rails framework.
 - My main languages are **Ruby and Ruby on Rails**, **C**, and **PHP**.
 
 ## Hobbies
