@@ -7,7 +7,7 @@ Since I finished the Ruby on Rails developer bootcamp in 2021 at BrightCoders, I
 
 I'm developing some practical projects to boost my profile using technologies like Ruby, Ruby on Rails, PostgreSQL, Hotwire, Sidekiq, Rspec, HTML5, CSS3, TailwindCSS, JavaScript, Git, Github.
 
-Currently I'm learning new technologies like React, AWS and MongoDB
+- Currently I'm learning new technologies like React, AWS and MongoDB
 
 - My main languages are **Ruby and Ruby on Rails**, **C**, and **PHP**.
 
