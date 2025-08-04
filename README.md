@@ -17,3 +17,6 @@ I'm developing some practical projects to boost my profile using technologies li
  as **new.line20**
  
 ![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres,html,css,js,git,c)
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MauricioNC=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
