@@ -19,4 +19,4 @@ I'm developing some practical projects to boost my profile using technologies li
 ![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres,html,css,js,git,c)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioNC)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioNC)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
