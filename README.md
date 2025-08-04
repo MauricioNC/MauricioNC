@@ -20,4 +20,4 @@ I'm developing some practical projects to boost my profile using technologies li
 
 ## Stats
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioNC&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioNC)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioNC&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
